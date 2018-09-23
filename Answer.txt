@@ -1,0 +1,1 @@
+If the multicast server is not available, the client will still receive messages from itself or other clients.
